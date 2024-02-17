@@ -2,7 +2,10 @@
 
 using openbb data / y finance
 
-portfolio of sector ET Fs
+portfolio of sector ETFs
+
+This will create an image like so:
+![mc_portfolio](./CalcVaR/plot.png)
 
 ### How To
 
